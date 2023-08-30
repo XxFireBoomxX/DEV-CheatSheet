@@ -1,0 +1,36 @@
+.text
+{
+    animation: alternate-reverse;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5vw;
+    font-weight: bold;
+}
+.titles
+{
+    animation: alternate-reverse;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5vw;
+    font-weight: bold;
+    margin: 2vw;
+}
+.listItems
+{
+    animation: alternate-reverse;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1vw;
+    font-weight: bold;
+    /* margin: 2vw; */
+    margin-left: 2vw;
+}
+.titleLines
+{
+    margin-left: 1vw;
+    margin-right: 1vw;
+    position: relative;
+    border: none;
+    height: 0.1vw;
+    background: black;
+}
